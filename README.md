@@ -1,4 +1,4 @@
-# Hi there, I'm Artem 👋
+# Focused on SOC Analysis & Network Security
 
 ### 🛠️ Technical Stack & Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
