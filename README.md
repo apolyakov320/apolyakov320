@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">📜 Certifications</h2>
+<h2 align="left">📜 Certifications</h2>
 
 <br>
 
