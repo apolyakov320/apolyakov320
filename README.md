@@ -12,7 +12,7 @@
 ## 📜 Certifications
 
 
-### Netology InfoSec Specialist: advanced course
+### 🎓 Netology InfoSec Specialist: advanced course
 
 <div align="center">
   
@@ -28,7 +28,7 @@
 
 </div>
 
-### TryHackMe
+### 🚩 TryHackMe
 
 <div align="center">
   
