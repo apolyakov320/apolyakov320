@@ -13,9 +13,7 @@
 
 <h2 align="left">📜 Certifications</h2>
 
-<br>
-
-<h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
+<h3 align="center">🎓 Netology InfoSec Specialist: advanced course</h3>
 
 <div align="center">
   
@@ -35,7 +33,7 @@
 
 ---
 
-<h3 align="left">🚩 TryHackMe</h3>
+<h3 align="center">🚩 TryHackMe</h3>
 
 <div align="center">
   
@@ -49,7 +47,7 @@
 
 ---
 
-<h3 align="left">🌐 Languages</h3>
+<h3 align="center">🌐 Languages</h3>
 
 <div align="center">
   
