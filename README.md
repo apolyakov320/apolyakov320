@@ -12,8 +12,6 @@
 
 <h2 align="left">📜 Certifications</h2>
 
-<br>
-
 <h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
 
 <div align="center">
