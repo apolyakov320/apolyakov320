@@ -9,9 +9,6 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-<br>
-
----
 
 <h2 align="left">📜 Certifications</h2>
 
