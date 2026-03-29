@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | 
 | **InfoSec Base** | **Data Networks And Security** | **Git** | 
 | **Operating System Security and System Programming** |
-
+| :---: |
 ### TryHackMe
 
 | <img src="https://drive.google.com/uc?export=view&id=1w5lHBZ4P2RtWkiY0e82Nsxlf39PVat6Y" alt="PreSec Certificate" width="300" height="424"> |
