@@ -2,7 +2,13 @@
 
 <br>
 
+---
+
 <h2 align="left">🛠️ Technical Stack & Tools</h2>
+
+<br>
+
+---
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -18,6 +24,10 @@
 <br>
 
 <h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
+
+<br>
+
+---
 
 <div align="center">
   
