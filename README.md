@@ -8,11 +8,13 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+---
 
-## 📜 Certifications
+<h2 align="center">📜 Certifications</h2>
 
+<br>
 
-### 🎓 Netology InfoSec Specialist: advanced course
+<h3 align="center">🎓 Netology InfoSec Specialist: advanced course</h3>
 
 <div align="center">
   
@@ -28,7 +30,11 @@
 
 </div>
 
-### 🚩 TryHackMe
+<br>
+
+---
+
+<h3 align="center">🚩 TryHackMe</h3>
 
 <div align="center">
   
@@ -38,7 +44,11 @@
 
 </div>
 
-### 🌐 Languages
+<br>
+
+---
+
+<h3 align="center">🌐 Languages</h3>
 
 <div align="center">
   
@@ -47,3 +57,5 @@
 | <small>English: C1 (Advanced)</small> <br> <sub>Issued by Skyeng</sub>|
 
 </div>
+
+---
