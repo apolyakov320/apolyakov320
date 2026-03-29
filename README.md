@@ -18,11 +18,12 @@
 | **InfoSec Base** | **Data Networks And Security** | **Git** | 
 
 <br>
-
-| <img src="https://drive.google.com/uc?export=view&id=17ASYsX-EK2GlAzp4CG1w3uOnuikxB2EA" alt="OSS&SP" width="300" height="424"> ||
-| :---: | :---: |
-| **Operating System Security and System Programming** ||
-
+<div align="center">
+| <img src="https://drive.google.com/uc?export=view&id=17ASYsX-EK2GlAzp4CG1w3uOnuikxB2EA" alt="OSS&SP" width="300" height="424"> |
+| :---: | 
+| **Operating System Security and System Programming** |
+<\div>
+  
 ### TryHackMe
 
 | <img src="https://drive.google.com/uc?export=view&id=1w5lHBZ4P2RtWkiY0e82Nsxlf39PVat6Y" alt="PreSec Certificate" width="300" height="424"> |
