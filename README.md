@@ -18,10 +18,13 @@
 | **InfoSec Base** | **Data Networks And Security** | **Git** | 
 
 <br>
+
 <div align="center">
+  
 | <img src="https://drive.google.com/uc?export=view&id=17ASYsX-EK2GlAzp4CG1w3uOnuikxB2EA" alt="OSS&SP" width="300" height="424"> |
 | :---: | 
 | **Operating System Security and System Programming** |
+
 </div>
   
 ### TryHackMe
