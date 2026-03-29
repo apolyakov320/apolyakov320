@@ -1,14 +1,7 @@
-# Focused on SOC Analysis & Network Security
+<h1 align="left">Focused on SOC Analysis & Network Security</h1>
 
-<br>
-
----
 
 <h2 align="left">🛠️ Technical Stack & Tools</h2>
-
-<br>
-
----
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -17,17 +10,12 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-<br>
 
 <h2 align="left">📜 Certifications</h2>
 
 <br>
 
 <h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
-
-<br>
-
----
 
 <div align="center">
   
