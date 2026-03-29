@@ -1,4 +1,4 @@
-<h1 align="center">Focused on SOC Analysis & Network Security</h1>
+<h1 align="left">Focused on SOC Analysis & Network Security</h1>
 
 
 <h2 align="left">🛠️ Technical Stack & Tools</h2>
