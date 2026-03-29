@@ -1,6 +1,5 @@
 # Focused on SOC Analysis & Network Security
 
----
 
 <h2 align="left">🛠️ Technical Stack & Tools</h2>
 
@@ -11,9 +10,10 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
----
 
 <h2 align="left">📜 Certifications</h2>
+
+<br>
 
 <h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
 
