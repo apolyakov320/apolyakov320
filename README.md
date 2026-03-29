@@ -1,6 +1,6 @@
 # Focused on SOC Analysis & Network Security
 
-<h2 align="center">🛠️ Technical Stack & Tools</h2>
+<h2 align="left">🛠️ Technical Stack & Tools</h2>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center">🎓 Netology InfoSec Specialist: advanced course</h3>
+<h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
 
 <div align="center">
   
@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="center">🚩 TryHackMe</h3>
+<h3 align="left">🚩 TryHackMe</h3>
 
 <div align="center">
   
@@ -51,7 +51,7 @@
 
 ---
 
-<h3 align="center">🌐 Languages</h3>
+<h3 align="left">🌐 Languages</h3>
 
 <div align="center">
   
