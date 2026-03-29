@@ -1,4 +1,4 @@
-<h1 align="left">Focused on SOC Analysis & Network Security</h1>
+<h1 align="center">Focused on SOC Analysis & Network Security</h1>
 
 
 <h2 align="left">🛠️ Technical Stack & Tools</h2>
@@ -13,7 +13,7 @@
 
 <h2 align="left">📜 Certifications</h2>
 
-<h3 align="center">🎓 Netology InfoSec Specialist: advanced course</h3>
+<h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
 
 <div align="center">
   
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="center">🚩 TryHackMe</h3>
+<h3 align="left">🚩 TryHackMe</h3>
 
 <div align="center">
   
@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="center">🌐 Languages</h3>
+<h3 align="left">🌐 Languages</h3>
 
 <div align="center">
   
