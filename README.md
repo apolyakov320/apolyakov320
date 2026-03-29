@@ -32,3 +32,9 @@
 | <img src="https://drive.google.com/uc?export=view&id=1w5lHBZ4P2RtWkiY0e82Nsxlf39PVat6Y" alt="PreSec Certificate" width="300" height="424"> |
 | :---: | 
 | **Pre Security Learning Path** |
+
+### 🌐 Languages
+
+| <img src="https://drive.google.com/uc?export=view&id=1-lMoYRx3Oc1hvdHjU1bcH0OezxCW8mxo" alt="Eng_C1" width="300" height="424"> |
+| :---: | 
+| **English: C1 (Advanced)** <br> <sub>Issued by Skyeng</sub>|
