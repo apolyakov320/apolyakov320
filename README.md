@@ -10,6 +10,10 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
+<br>
+
+---
+
 <h2 align="left">📜 Certifications</h2>
 
 <h3 align="left">🎓 Netology InfoSec Specialist: advanced course</h3>
