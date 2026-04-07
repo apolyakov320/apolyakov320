@@ -23,9 +23,9 @@
 
 <br>
 
-| <img src="https://drive.google.com/uc?export=view&id=17ASYsX-EK2GlAzp4CG1w3uOnuikxB2EA" alt="OSS&SP" width="300" height="424"> |
-| :---: | 
-| <small>Operating System Security and System Programming</small> |
+| <img src="https://drive.google.com/uc?export=view&id=17ASYsX-EK2GlAzp4CG1w3uOnuikxB2EA" alt="OSS&SP" width="300" height="424"> | <img src="https://drive.google.com/uc?export=view&id=1c3zumS3R8SLs_8v6uecxmla4NxplI4e9" alt="MEDOED" width="300" height="424"> |
+| :---: | :---: | 
+| <small>Operating System Security and System Programming</small> | <small>MEDOED: Automation of information security processes </small> |
 
 </div>
 
